@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Jenkins Update Test 123 test 123 test 22 112</title>
+        <title>Jenkins Update Test 123 test 123 test 22</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
